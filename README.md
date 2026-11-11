@@ -4,6 +4,11 @@ Bezmaksas veidnes darbam ar AI aģentu, kas strādā ar failiem un pārlūku (pi
 
 Veidnes nesatur uzņēmuma datus, gatavas deklarācijas vai automātiskas iesniegšanas programmas.
 
+Komplekts pieder diviem rakstiem seos.lv:
+
+- [Gada pārskats ar AI: kā es iztiku bez grāmatveža](https://seos.lv/blogs/gada-parskats-ar-ai) - pieredzes stāsts un izmaksas;
+- [Kā sagatavot gada pārskatu ar AI: praktiska instrukcija un prompti](https://seos.lv/blogs/gada-parskats-ar-ai-instrukcija) - viss ceļš soli pa solim.
+
 ## Kā sākt
 
 **Ātrais ceļš (Claude Code):**
